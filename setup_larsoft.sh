@@ -20,6 +20,7 @@ setup mrb
 mrbsetenv
 
 #mrb b # compila o codigo
+#mrb i # instala o codigo?
 
 mrbslp
 export FHICL_FILE_PATH=${FHICL_FILE_PATH}:${MRB_BUILDDIR}/dunesw/fcl #para achar as fcls
